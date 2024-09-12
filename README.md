@@ -1,5 +1,7 @@
-# PureDriveSDK_Apple
+# PureDriveSDKApple
  Rewritten Anki Drive SDK for Apple Platforms
+
+- this is for a game i'm writing called PureDrive
 
 ### Support:
 - MacOS 10.15+
